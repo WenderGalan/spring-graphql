@@ -3,6 +3,11 @@ spring:
     graphiql:
       enabled: true
       path: /graphiql
+    cors:
+      allow-credentials: off
+      allowed-headers: "*"
+      allowed-methods: "*"
+      allowed-origins: "*"
   datasource:
     url: jdbc:h2:mem:testdb
     driver-class-name: org.h2.Driver

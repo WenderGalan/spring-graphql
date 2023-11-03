@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="473a56dd-2035-4419-b11d-c7d7d9b4af32" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/GraphqlExampleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/configs/ComplexFilterSpecification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/filters/ComplexFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/filters/GenericFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/entities/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/entities/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/inputs/DepartmentInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/inputs/EmployeeInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/inputs/OrganizationInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/repositories/DepartmentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/repositories/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/repositories/OrganizationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/DepartmentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/OrganizationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/entities/department.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/entities/employee.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/entities/organization.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/filters/complexfilter.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/filters/genericfilter.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/schema.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/wendergalan/graphqlexample/GraphqlExampleApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TagnosRepository" />
+        <option value="TagnosEnum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XWn8XBhXpeZAqgXVtgx0plzXmJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/repos/spring-graphql&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wende\Downloads\graphql-example\graphql-example\src\main\resources\graphql" />
+      <recent name="C:\Users\wende\Downloads\graphql-example\graphql-example\src\main\resources\graphql\filters" />
+      <recent name="C:\Users\wende\Downloads\graphql-example\graphql-example\src\main\resources\graphql\entities" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.wendergalan.graphqlexample" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GraphqlExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="graphql-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.wendergalan.graphqlexample.GraphqlExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="473a56dd-2035-4419-b11d-c7d7d9b4af32" name="Changes" comment="" />
+      <created>1698753545190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698753545190</updated>
+      <workItem from="1698753546219" duration="279000" />
+      <workItem from="1698753833687" duration="8211000" />
+      <workItem from="1698840938939" duration="5921000" />
+      <workItem from="1698848896673" duration="6106000" />
+      <workItem from="1698863515556" duration="2806000" />
+      <workItem from="1699036108489" duration="3232000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init project">
+      <option name="closed" value="true" />
+      <created>1698863539824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698863539824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init project">
+      <option name="closed" value="true" />
+      <created>1698864093691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698864093691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/QueryResolver.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/configs/ComplexFilterSpecification.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
