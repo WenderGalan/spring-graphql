@@ -4,39 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473a56dd-2035-4419-b11d-c7d7d9b4af32" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/GraphqlExampleApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/configs/ComplexFilterSpecification.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/filters/ComplexFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/filters/GenericFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/entities/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/entities/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/entities/Organization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/inputs/DepartmentInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/inputs/EmployeeInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/model/inputs/OrganizationInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/repositories/DepartmentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/repositories/EmployeeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/repositories/OrganizationRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/DepartmentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/EmployeeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wendergalan/graphqlexample/resolvers/OrganizationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/entities/department.graphqls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/entities/employee.graphqls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/entities/organization.graphqls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/filters/complexfilter.graphqls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/filters/genericfilter.graphqls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/schema.graphqls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/wendergalan/graphqlexample/GraphqlExampleApplicationTests.java" beforeDir="false" />
+    <list default="true" id="473a56dd-2035-4419-b11d-c7d7d9b4af32" name="Changes" comment="Init project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +104,8 @@
       <workItem from="1698848896673" duration="6106000" />
       <workItem from="1698863515556" duration="2806000" />
       <workItem from="1699036108489" duration="3232000" />
+      <workItem from="1699301441933" duration="12000" />
+      <workItem from="1699304779230" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="Init project">
       <option name="closed" value="true" />

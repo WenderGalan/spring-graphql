@@ -23,6 +23,8 @@ let departments = ref([]);
 provideApolloClient(apolloClient);
 
 /**
+ * https://gist.github.com/craigbeck/b90915d49fda19d5b2b17ead14dcd6da
+ * https://graphql.org/learn/introspection/
  */
 async function getIntrospectionResult () {
   const introspectionQuery = `
